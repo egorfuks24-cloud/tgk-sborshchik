@@ -1,0 +1,4 @@
+interface:
+  display_name: "ТГКсборщик"
+  short_description: "Полная сборка, оформление и запуск Telegram-бота"
+  default_prompt: "Используй $tgk-sborshchik, чтобы собрать и запустить Telegram-бота с оформлением, кнопками и проверкой подписок."
