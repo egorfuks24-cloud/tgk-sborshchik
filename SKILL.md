@@ -1,9 +1,11 @@
 ---
 name: tgk-sborshchik
 description: Build and launch a complete Telegram bot with onboarding, native buttons, BotFather media, optional subscription gating, and verified hosting. Use for full bot delivery or finishing these integrations in an existing bot.
+metadata:
+  author: creator1x
 ---
 
-# ТГКсборщик — полная сборка Telegram-бота
+# creator1x · ТГКсборщик — полная сборка Telegram-бота
 
 Довести бота до рабочего результата, включая оформление и эксплуатацию. Работает как обычный SKILL.md в Codex и Claude Code; наличие инструментов проверять фактически. Не превращать любой новый бот в копию Emojinator: его персонаж, каналы и функции не являются универсальными настройками.
 
